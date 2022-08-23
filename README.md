@@ -1,5 +1,9 @@
-# vue-cli-first
+# Esercizio Boolean - Vue-CLI
 
+* Nome: vue-cli-first
+* Autore: Lupinu Riccardo
+* Data: 23/08/2022
+* Linguaggio: Vue CLI
 ## Project setup
 ```
 npm install
